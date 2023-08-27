@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container__input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.container__res {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-style {
+    color: white;
+    background-color: rgb(33, 139, 33);
+    border: none;
+    padding: 10px;
+}
+
+p {
+    font-weight: 600;
+}
